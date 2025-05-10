@@ -1,0 +1,1 @@
+This is the text file which has to be operated and from this file we have to extract the ip address which are <20.
